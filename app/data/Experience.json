@@ -14,7 +14,7 @@
       "Decoupled Database from Backend and DOM, Can Mirror Data into React Native App"
     ],
     "tech": ["WordPress", "WooCommerce", "PHP", "Bootstrap", 
-    "Tailwind", "React", "Next", "REST API", "JWT Auth", "Anime.js", "JSON", "XML", "Node.js", "Express.js", "Performance", "Security"]
+    "Tailwind", "React", "Next", "REST API", "JWT Auth", "Anime.js", "JSON", "XML", "Node.js", "Express.js"]
   },
   {
     "title": "Frontend Developer (Web Designer)",
