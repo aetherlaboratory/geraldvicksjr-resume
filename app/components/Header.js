@@ -7,7 +7,7 @@ export default function Header() {
       <div className="row align-items-center g-4">
         <div className="col-12 col-lg-8">
           <h1 className="h2 mb-1" itemProp="name">Gerald Vicks Jr.</h1>
-          <p className="lead mb-0" itemProp="jobTitle">WordPress & Fullstack Developer</p>
+          <p className="lead mb-0" itemProp="jobTitle">Freelance WordPress & Fullstack Developer</p>
           <meta itemProp="worksFor" content="Freelance" />
         </div>
         <div className="col-12 col-lg-4">
@@ -26,7 +26,7 @@ export default function Header() {
             </li>
             <li>
               <i className="fa-solid fa-globe me-2" aria-hidden="true"></i>
-              <a href="https://aether-lab.io" rel="noopener">yourname.dev</a>
+              <a href="https://aether-lab.io" rel="noopener">yourname.dev <small className="text-info">(tunneled locally via ngrok)</small></a>
             </li>
           </ul>
         </div>

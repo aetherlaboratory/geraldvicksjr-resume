@@ -1,0 +1,49 @@
+[
+  {
+    "title": "WordPress Fullstack Developer (App Developer)",
+    "company": "The MotherShip",
+    "type": "React/Next UI Kit/Boilerplate",
+    "startDate": "2023-06",
+    "startLabel": "Jun 2023",
+    "endDate": "2025-09",
+    "endLabel": "Today",
+    "bullets": [
+    "Headless Wordpress as database with Next.js Frontend/Backend using API Requests (REST API)",
+      "JWT Authentication Tested and working (No Express.js Proxy Shortcut needed!)",
+      "Completely Migratable, Reuseable, with Local JSON Data as Fallback Source",
+      "Decoupled Database from Backend and DOM, Can Mirror Data into React Native App"
+    ],
+    "tech": ["WordPress", "WooCommerce", "PHP", "Bootstrap", 
+    "Tailwind", "React", "Next", "REST API", "JWT Auth", "Anime.js", "JSON", "XML", "Node.js", "Express.js", "Performance", "Security"]
+  },
+  {
+    "title": "Frontend Developer (Web Designer)",
+    "company": "Aether Lab",
+    "type": "Freelance Wordpress Portfolio",
+    "startDate": "2024-09",
+    "startLabel": "Aug 2012",
+    "endDate": "2025-05",
+    "endLabel": "Today",
+    "bullets": [
+      "CSS3 Media Queries with a mobile first approach.",
+      "Semantic HTML optimized for Search Engines/Screen Readers/Accessibility",
+      "Minified and Optimized Images and Code Files that are also linked via CDN for Faster Loading"
+    ],
+    "tech": ["HTML5", "CSS3", "SVG", "Anime.js", "PHP", "AJAX", "Wordpress", "Shopify", "Accessibility", "CI/CD"]
+  },
+  {
+    "title": "Graphic Designer (UI/UX Designer)",
+    "company": "Dexterity Studio",
+    "type": "Freelance Graphic Design Portfolio",
+    "startDate": "2008-09",
+    "startLabel": "Sept. 2008",
+    "endDate": "2024-08",
+    "endLabel": "Today",
+    "bullets": [
+      "Mastery of Pixel/Vector Based Design with a Strong background in Fine Art",
+       "Branding, Identity, Print & Packaging Design, UI/UX Design & Strategy",
+      "Advanced Skills from Photo-manipulation, Digital Painting, Animation, and Low Poly 3D Modeling"
+    ],
+    "tech": ["Adobe Photoshop", "Adobe Illustrator", "Adobe After Effects", "Blender", "Ipad Pro & Apple Pencil", "Affinity Designer 2", "Procreate"]
+  }
+]

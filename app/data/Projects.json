@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Mothership — Headless WP + Modular UI",
+    "description": "Reusable boilerplate powering eCommerce, admin UI, and media tools.",
+    "bullets": [
+      "Modular search system; reduced query times by <strong>~35%</strong>.",
+      "JWT-secured endpoints; role-aware UI without client libraries."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/mothership",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
+  {
+    "title": "Seafood Social — Woo Menu Sorter",
+    "description": "Custom Codestar sorter with category mapping and image tooling.",
+    "bullets": [
+      "Cut menu management time by <strong>72%</strong>.",
+      "Improved LCP &lt; 1.8s with caching + image pipeline."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/seafoodsocial",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
+  {
+    "title": "Seafood Social — Woo Menu Sorter",
+    "description": "Custom Codestar sorter with category mapping and image tooling.",
+    "bullets": [
+      "Cut menu management time by <strong>72%</strong>.",
+      "Improved LCP &lt; 1.8s with caching + image pipeline."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/seafoodsocial",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  }
+,
+  {
+    "title": "Seafood Social — Woo Menu Sorter",
+    "description": "Custom Codestar sorter with category mapping and image tooling.",
+    "bullets": [
+      "Cut menu management time by <strong>72%</strong>.",
+      "Improved LCP &lt; 1.8s with caching + image pipeline."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/seafoodsocial",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  }
+
+]
