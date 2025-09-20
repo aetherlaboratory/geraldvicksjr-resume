@@ -1,7 +1,25 @@
 [
+
+  {
+    "title": "React Developer (Frontend Developer)",
+    "company": "Gerald Vicks Jr - Resume",
+    "type": "This Website",
+    "startDate": "2025-09",
+    "startLabel": "Aug 2025",
+    "endDate": "2025-09",
+    "endLabel": "Today",
+    "bullets": [
+    "React/Next JS As Platform",
+      "Sections Are Separated into different Components (experience/projects/etc)",
+      "The Data/Each Item is Listed in a JSON Data File for Easy Manual CRUD Control",
+      "Backed Up and Deployed Via Netlify through Github Repository"
+    ],
+    "tech": ["HTML5", "CSS3", 
+    "Javascript", "React", "Next", "JSON", "Node.js"]
+  },
   {
     "title": "WordPress Fullstack Developer (App Developer)",
-    "company": "The MotherShip",
+    "company": "The Mothership",
     "type": "React/Next UI Kit/Boilerplate",
     "startDate": "2023-06",
     "startLabel": "Jun 2023",
@@ -17,7 +35,7 @@
     "Tailwind", "React", "Next", "REST API", "JWT Auth", "Anime.js", "JSON", "XML", "Node.js", "Express.js"]
   },
   {
-    "title": "Frontend Developer (Web Designer)",
+    "title": "Wordpress Theme Developer (CMS Developer)",
     "company": "Aether Lab",
     "type": "Freelance Wordpress Portfolio",
     "startDate": "2024-09",
@@ -25,9 +43,12 @@
     "endDate": "2025-05",
     "endLabel": "Today",
     "bullets": [
+      "Codestar Framework (PHP) for Custom Theme Settings/Metadata (NO ACF/CPT Plugin Needed!)",
       "CSS3 Media Queries with a mobile first approach.",
       "Semantic HTML optimized for Search Engines/Screen Readers/Accessibility",
-      "Minified and Optimized Images and Code Files that are also linked via CDN for Faster Loading"
+      "Minified and Optimized Images and Code Files that are also linked via CDN for Faster Loading",
+      "Only 2 Plugins used are Gravity Forms and Woocommerce (If Needed) to ensure security",
+      "Most Functionality is baked directly into the custom theme to protect against plugin update vulnerability!"
     ],
     "tech": ["HTML5", "CSS3", "SVG", "Anime.js", "PHP", "AJAX", "Wordpress", "Shopify", "Accessibility", "CI/CD"]
   },

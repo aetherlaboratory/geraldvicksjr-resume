@@ -1,0 +1,12 @@
+{
+  "Core": [
+    "WordPress (themes, plugins), WooCommerce",
+    "PHP, HTML5, CSS3, Bootstrap 5",
+    "Accessibility (WCAG), SEO, Performance"
+  ],
+  "Tools & Process": [
+    "Git, GitHub, CI/CD (static deploy, previews)",
+    "Headless CMS, REST APIs, JWT",
+    "UX writing, component libraries, design systems"
+  ]
+}

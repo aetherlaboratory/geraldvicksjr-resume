@@ -1,6 +1,6 @@
 [
   {
-    "title": "Mothership — Headless WP + Modular UI",
+    "title": "Mothership — Headless WP + Modular React UI + Next CRUD",
     "description": "Reusable boilerplate powering eCommerce, admin UI, and media tools.",
     "bullets": [
       "Modular search system; reduced query times by <strong>~35%</strong>.",
@@ -26,11 +26,13 @@
     }
   },
   {
-    "title": "Seafood Social — Woo Menu Sorter",
-    "description": "Custom Codestar sorter with category mapping and image tooling.",
+    "title": "Seafood Social — Woo Powered Restaurant",
+    "description": "Seafood Restaurant Powered By WooCommerce via Wordpress.",
     "bullets": [
-      "Cut menu management time by <strong>72%</strong>.",
-      "Improved LCP &lt; 1.8s with caching + image pipeline."
+      "Woo Products as Meals/Dishes",
+      "eCommerce Shopping Cart as your Food Order.",
+      "Member Area with History/Register Food Allergies!"
+
     ],
     "links": [
       {
@@ -52,11 +54,11 @@
     }
   },
   {
-    "title": "Seafood Social — Woo Menu Sorter",
-    "description": "Custom Codestar sorter with category mapping and image tooling.",
+    "title": "ReUp Garden — Gardening/Farming Supplies",
+    "description": "eCommerce Store for garden supplies.",
     "bullets": [
-      "Cut menu management time by <strong>72%</strong>.",
-      "Improved LCP &lt; 1.8s with caching + image pipeline."
+       "Completely Ai Driven Workflow",
+      "Ai Generated Images/Ai Generated Videos"
     ],
     "links": [
       {
@@ -79,11 +81,11 @@
   }
 ,
   {
-    "title": "Seafood Social — Woo Menu Sorter",
-    "description": "Custom Codestar sorter with category mapping and image tooling.",
+    "title": "It Was Custom Built — Carpentry Portfolio/Furniture Store",
+    "description": "Highly Custom and Personal Carpentry Shop/Project Quoting Form",
     "bullets": [
-      "Cut menu management time by <strong>72%</strong>.",
-      "Improved LCP &lt; 1.8s with caching + image pipeline."
+      "Made 100% To Match Client's Carpentry Workflow",
+      "Timeline, Galleries, Shop With Taxonomy, Full Site Search, Unique Menu UI"
     ],
     "links": [
       {

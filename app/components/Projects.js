@@ -51,7 +51,7 @@ export default function Projects() {
       >
         <i className="fa-solid fa-shield-halved me-2" aria-hidden="true"></i>
         Portfolio demos are served from an always-on Mac mini via secure tunnel.
-        Admin access is password-protected and rotated monthly, reflecting
+        Access is password-protected and rotated monthly, reflecting
         standard staging practices.
       </div>
     </section>
