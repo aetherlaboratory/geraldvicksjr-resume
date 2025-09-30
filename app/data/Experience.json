@@ -28,6 +28,7 @@
     "bullets": [
     "Headless Wordpress as database with Next.js Frontend/Backend using API Requests (REST API)",
       "JWT Authentication Tested and working (No Express.js Proxy Shortcut needed!)",
+      "CRUD Actions for Easy Custom CMS Layered Control Remotely via NEXT.js",
       "Completely Migratable, Reuseable, with Local JSON Data as Fallback Source",
       "Decoupled Database from Backend and DOM, Can Mirror Data into React Native App"
     ],
@@ -44,10 +45,11 @@
     "endLabel": "Today",
     "bullets": [
       "Codestar Framework (PHP) for Custom Theme Settings/Metadata (NO ACF/CPT Plugin Needed!)",
+      "Sanitized Callbacks/Inputs/Submissions for Layer of Security",
       "CSS3 Media Queries with a mobile first approach.",
       "Semantic HTML optimized for Search Engines/Screen Readers/Accessibility",
       "Minified and Optimized Images and Code Files that are also linked via CDN for Faster Loading",
-      "Only 2 Plugins used are Gravity Forms and Woocommerce (If Needed) to ensure security",
+      "Only 2 Guaranteed Plugins used are Gravity Forms and Woocommerce (If Needed) to ensure security",
       "Most Functionality is baked directly into the custom theme to protect against plugin update vulnerability!"
     ],
     "tech": ["HTML5", "CSS3", "SVG", "Anime.js", "PHP", "AJAX", "Wordpress", "Shopify", "Accessibility", "CI/CD"]
