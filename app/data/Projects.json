@@ -1,10 +1,44 @@
 [
+
+
+
+  {
+    "title": "Gerald Vicks Jr - Resume",
+    "description": "This Very Website",
+    "bullets": [
+      "Design and Data Seperated, Data Files in JSON.",
+      "Locally hosted sites funneled via Ngrok to live links",
+      "Portfolio Sites randomly change credentials weekly to ensure security."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://geraldvicksjr-resume.netlify.com",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
+
+
+
   {
     "title": "Mothership — Headless WP + Modular React UI + Next CRUD",
     "description": "Reusable boilerplate powering eCommerce, admin UI, and media tools.",
     "bullets": [
-      "Modular search system; reduced query times by <strong>~35%</strong>.",
-      "JWT-secured endpoints; role-aware UI without client libraries."
+      "Starting point/Template For all Complex Web Based Projects",
+      "Combines simplicity of Wordpress/WooCommerce with the creative freedom of React.js",
+      "Handles every data type, from images, videos, products, events, form data, even food."
     ],
     "links": [
       {
@@ -86,6 +120,35 @@
     "bullets": [
       "Made 100% To Match Client's Carpentry Workflow",
       "Timeline, Galleries, Shop With Taxonomy, Full Site Search, Unique Menu UI"
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/seafoodsocial",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  }
+  ,
+
+   {
+    "title": "Taproot — Horticulture",
+    "description": "Unique and Dynamic forms of Agricultural Products",
+    "bullets": [
+      "Online Seed Library",
+      "Specialize in crop breeding/cloning",
+      "Unique & Dynamic forms of plant cultivation"
     ],
     "links": [
       {

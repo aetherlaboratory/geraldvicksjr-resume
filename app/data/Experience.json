@@ -1,22 +1,6 @@
 [
 
-  {
-    "title": "React Developer (Frontend Developer)",
-    "company": "Gerald Vicks Jr - Resume",
-    "type": "This Website",
-    "startDate": "2025-09",
-    "startLabel": "Aug 2025",
-    "endDate": "2025-09",
-    "endLabel": "Today",
-    "bullets": [
-    "React/Next JS As Platform",
-      "Sections Are Separated into different Components (experience/projects/etc)",
-      "The Data/Each Item is Listed in a JSON Data File for Easy Manual CRUD Control",
-      "Backed Up and Deployed Via Netlify through Github Repository"
-    ],
-    "tech": ["HTML5", "CSS3", 
-    "Javascript", "React", "Next", "JSON", "Node.js"]
-  },
+
   {
     "title": "WordPress Fullstack Developer (App Developer)",
     "company": "The Mothership",
