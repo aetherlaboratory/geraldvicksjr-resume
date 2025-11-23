@@ -60,6 +60,33 @@
     }
   },
   {
+    "title": "Æther Lab - Web Design Portfolio",
+    "description": "Portfolio to display all my Custom Wordpress Websites",
+    "bullets": [
+      "Wordpress Developer Designer Portfolio",
+      "Built in Blog with post search",
+      "Quote and Consultation Form for website requests."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/aetherlab",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
+  {
     "title": "Seafood Social — Woo Powered Restaurant",
     "description": "Seafood Restaurant Powered By WooCommerce via Wordpress.",
     "bullets": [
@@ -87,33 +114,8 @@
       "pass": "demo2025"
     }
   },
-  {
-    "title": "ReUp Garden — Gardening/Farming Supplies",
-    "description": "eCommerce Store for garden supplies.",
-    "bullets": [
-       "Completely Ai Driven Workflow",
-      "Ai Generated Images/Ai Generated Videos"
-    ],
-    "links": [
-      {
-        "label": "Case Study",
-        "icon": "fa-solid fa-globe",
-        "url": "https://yourname.dev/seafoodsocial",
-        "style": "btn-outline-primary"
-      },
-      {
-        "label": "Live Demo (Password)",
-        "icon": "fa-solid fa-lock",
-        "url": "https://live-link-here.example",
-        "style": "btn-outline-secondary"
-      }
-    ],
-    "access": {
-      "user": "portfolio",
-      "pass": "demo2025"
-    }
-  }
-,
+  
+
   {
     "title": "It Was Custom Built — Carpentry Portfolio/Furniture Store",
     "description": "Highly Custom and Personal Carpentry Shop/Project Quoting Form",
@@ -125,7 +127,7 @@
       {
         "label": "Case Study",
         "icon": "fa-solid fa-globe",
-        "url": "https://yourname.dev/seafoodsocial",
+        "url": "https://yourname.dev/custombuilt",
         "style": "btn-outline-primary"
       },
       {
@@ -139,22 +141,104 @@
       "user": "portfolio",
       "pass": "demo2025"
     }
-  }
-  ,
-
-   {
-    "title": "Taproot — Horticulture",
-    "description": "Unique and Dynamic forms of Agricultural Products",
+  },
+  
+  {
+    "title": "Golden Tome - CGI and Comic Book Art",
+    "description": "Portfolio for a Digital Painter, Character Designer, or Concept Artist",
     "bullets": [
-      "Online Seed Library",
-      "Specialize in crop breeding/cloning",
-      "Unique & Dynamic forms of plant cultivation"
+      "Designed Personally for a Digital Artist.",
+      "Comic Book Reader, Galleries, Video Player, and Commission Form,",
+      "WooCommerce store for merchandise."
     ],
     "links": [
       {
         "label": "Case Study",
         "icon": "fa-solid fa-globe",
-        "url": "https://yourname.dev/seafoodsocial",
+        "url": "https://yourname.dev/goldtome",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
+   {
+    "title": "Kraken Ink - Tattoo Studio",
+    "description": "Portfolio for a Tattoo Artist, Complete personal Website",
+    "bullets": [
+      "Filterable Tattoo Portfolio",
+      "User Based Booking System",
+      "WooCommerce store for merchandise."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/krakenink",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
+
+  {
+    "title": "Dexterity Studio - Branding & Graphic Design",
+    "description": "Portfolio for a Graphic Designer and Typography Designer",
+    "bullets": [
+      "Graphic Designer Portfolio",
+      "Commission Form for Price Quoting and setting up Consultation",
+      "WooCommerce store for merchandise."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/dexterity",
+        "style": "btn-outline-primary"
+      },
+      {
+        "label": "Live Demo (Password)",
+        "icon": "fa-solid fa-lock",
+        "url": "https://live-link-here.example",
+        "style": "btn-outline-secondary"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
+   {
+    "title": "VixArt - Fine Arts and Sculpting",
+    "description": "Portfolio for a Fine Artist using traditional mediums",
+    "bullets": [
+      "Filterable Visual Art Portfolio",
+      "Video Gallery",
+      "Auctioning System for Unique Art Pieces",
+      "WooCommerce store for merchandise."
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://yourname.dev/vixart",
         "style": "btn-outline-primary"
       },
       {
@@ -169,5 +253,8 @@
       "pass": "demo2025"
     }
   }
+
+
+ 
 
 ]
