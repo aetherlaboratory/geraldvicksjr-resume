@@ -34,11 +34,11 @@ export default function Projects() {
                     </a>
                   ))}
                 </div>
-
+{/* 
                 <p className="mt-2 mb-0 small text-muted">
                   Demo Access — User: <code>{proj.access.user}</code> · Pass:{" "}
                   <code>{proj.access.pass}</code>
-                </p>
+                </p> */}
               </div>
             </article>
           </div>
