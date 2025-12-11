@@ -14,8 +14,8 @@
       {
         "label": "Case Study",
         "icon": "fa-solid fa-globe",
-        "url": "https://geraldvicksjr-resume.netlify.com",
-        "style": "btn-outline-primary"
+        "url": "https://geraldvicksjr-resume.netlify.app",
+        "style": "btn-outline-muted"
       }
     ],
     "access": {
