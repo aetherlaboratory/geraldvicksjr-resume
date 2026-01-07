@@ -59,7 +59,7 @@
       {
         "label": "Case Study",
         "icon": "fa-solid fa-globe",
-        "url": "htttps://aetherlab.netlify.app",
+        "url": "https://aetherlab.netlify.app",
         "style": "btn-outline-primary"
       }
     ],
