@@ -25,8 +25,8 @@ export default function Header() {
               <a href="https://github.com/aetherlaboratory" rel="noopener" itemProp="url">github.com/aetherlaboratory</a>
             </li>
             <li>
-              <i className="fa-solid fa-globe me-2" aria-hidden="true"></i>
-              <a href="https://aether-lab.io" rel="noopener">yourname.dev <small className="text-info">(tunneled locally via ngrok)</small></a>
+              <i className="fa-solid fa-phone me-2" aria-hidden="true"></i>
+              <a href="#" rel="noopener"> 1+(929) 792-2659 <small className="text-info">(6am-10pm EST)</small></a>
             </li>
           </ul>
         </div>
