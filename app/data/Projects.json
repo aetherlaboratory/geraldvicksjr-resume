@@ -24,7 +24,27 @@
     }
   },
 
-
+{
+    "title": "Cola Lab",
+    "description": "Botanical Education Website for help with home plant cultivation.",
+    "bullets": [
+      "Clean Scientific Design with a Botanical Theme",
+      "Journal/Timeline of Plant Growth and Care/Observations/Notes",
+      "Book Store/Interactive Info Graphics/Plant Care Guides"
+    ],
+    "links": [
+      {
+        "label": "Case Study",
+        "icon": "fa-solid fa-globe",
+        "url": "https://colalab.netlify.app",
+        "style": "btn-outline-muted"
+      }
+    ],
+    "access": {
+      "user": "portfolio",
+      "pass": "demo2025"
+    }
+  },
 
   {
     "title": "Mothership — Headless WP + Modular React UI + Next CRUD",
